@@ -152,7 +152,7 @@ Datos de entrada:
 2
 10
 15
-20
+21
 25
 30
 Datos de salida:
